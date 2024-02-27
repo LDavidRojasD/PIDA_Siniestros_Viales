@@ -5,7 +5,7 @@
 **<p align="center"> Luis David Rojas Díaz</p>**
 <p align="center"> Estudiante</p>
 <p align="center">
-  <img src="imágenes/Imagen1.png">
+  <img src="Imágenes\Imagen1.png">
 </p>
 
 ## Descripción del Proyecto
